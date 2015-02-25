@@ -1,0 +1,16 @@
+﻿-- logger module started --
+mastirne aemr_roourt:_ sEmSe_mO UeTr_rRoErS:E TS_mPeCmR  dcoaelsl eodn
+ly support raw audio format
+main error: cannot create packetizer output (mp4a)
+main error: ES_OUT_RESET_PCR called
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14166740276, last: 14166791562)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14166773642, last: 14166791562)
+﻿-- logger module started --
+mainst rerreoarm:_ oEuSt__OsUmTe_mR EeSrErTo_rP:C RS mceaml ldeode
+s only support raw audio format
+main error: cannot create packetizer output (mp4a)
+main error: ES_OUT_RESET_PCR called
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14181680986, last: 14181694196)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14182328883, last: 14182335748)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14183601498, last: 14183603347)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 14184668841, last: 14184676426)
