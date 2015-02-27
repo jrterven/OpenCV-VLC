@@ -14,3 +14,20 @@ avcodec warning: almost fed libavcodec with a frame in the past (current: 141816
 avcodec warning: almost fed libavcodec with a frame in the past (current: 14182328883, last: 14182335748)
 avcodec warning: almost fed libavcodec with a frame in the past (current: 14183601498, last: 14183603347)
 avcodec warning: almost fed libavcodec with a frame in the past (current: 14184668841, last: 14184676426)
+﻿-- logger module started --
+smtariena me_roruotr_:s mEeSm_ OeUrTr_oRrE:S ESTm_ePmC Rd oceasl loendl
+y support raw audio format
+main error: cannot create packetizer output (mp4a)
+main error: ES_OUT_RESET_PCR called
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189002997451, last: 189003071928)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189003030817, last: 189003071928)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189003064183, last: 189003071928)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189004325083, last: 189004335794)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189006467887, last: 189006470358)
+﻿-- logger module started --
+msatirne aemr_roourt:_ sEmSe_mO UeTr_rRoErS:E TS_mPeCmR  dcoaelsl eodn
+ly support raw audio format
+main error: cannot create packetizer output (mp4a)
+main error: ES_OUT_RESET_PCR called
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189107634465, last: 189107662562)
+avcodec warning: almost fed libavcodec with a frame in the past (current: 189108436720, last: 189108456743)
